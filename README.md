@@ -26,4 +26,5 @@
     ng serve
     ```
 ## Contribuidores
+<a href="https://github.com/dkayke"><img src="https://avatars2.githubusercontent.com/u/26176260?s=460&v=4" width="50"></a>
 <a href="https://github.com/gihcardoso"><img src="https://avatars0.githubusercontent.com/u/30425202?s=460&v=4" width="50"></a>
